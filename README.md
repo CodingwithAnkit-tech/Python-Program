@@ -22,7 +22,6 @@ This project is designed to:
 - ✔ Well-commented source code
 - ✔ Can be extended for future enhancements
 
----
 
 ## 🛠 Technologies Used
 
