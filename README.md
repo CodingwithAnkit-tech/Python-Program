@@ -12,7 +12,6 @@ This project is designed to:
 - Apply logical thinking and clean coding practices
 - Build a foundation for advanced domains like Data Science, Machine Learning, and Web Development
 
----
 
 ## 🚀 Features
 
