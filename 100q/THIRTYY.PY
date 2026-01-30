@@ -1,0 +1,1 @@
+#Q30. Write a program to accept 10 numbers from the user and display the largest & smallest number number.

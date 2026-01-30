@@ -1,0 +1,1 @@
+#Q24. Write a program to find the HCF of two numbers entered from the user.

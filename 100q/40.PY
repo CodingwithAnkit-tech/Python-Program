@@ -1,0 +1,1 @@
+"""Q40. Write a Program to print all the characters in the string ‘PYTHON’ using while loop."""

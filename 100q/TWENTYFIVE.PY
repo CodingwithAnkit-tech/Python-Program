@@ -1,0 +1,1 @@
+#Q25. Write a program to convert Decimal to Binary. 
