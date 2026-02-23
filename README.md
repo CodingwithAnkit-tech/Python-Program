@@ -11,7 +11,6 @@ This project aims to:
 - Build a strong foundation for advanced fields such as  
   **Data Science, Machine Learning, and Web Development**
 - Maintain industry-standard coding and documentation practices
-
 ---
 
 ## 🚀 Key Features
