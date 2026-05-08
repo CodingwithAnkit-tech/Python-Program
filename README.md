@@ -4,7 +4,6 @@ A Python-based project developed to demonstrate core programming concepts, logic
 
 ## 📌 Project Overview
 
-
 This project aims to:
 - Strengthen **core Python programming fundamentals**
 - Apply **logical thinking** and **clean coding practices**
