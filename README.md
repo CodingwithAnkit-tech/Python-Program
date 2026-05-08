@@ -14,7 +14,6 @@ This project aims to:
 ---
 
 
-
 ## 🚀 Key Features
 
 - ✔ Developed using **pure Python**
